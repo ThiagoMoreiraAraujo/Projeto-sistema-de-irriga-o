@@ -1,5 +1,5 @@
 # Aula de Excel.
-Este repositório tem o propósito simular um gerenciamento de uma empresa fictícia.
+Este repositório tem o propósito simular um gerenciamento de uma empresa fictícia de montagem de sistemas de irrigação.
 
 Os elementos da empresa:
 - Ter uma área definida
