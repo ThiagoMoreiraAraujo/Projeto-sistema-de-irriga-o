@@ -5,3 +5,4 @@ Os elementos da empresa:
 - Ter uma área definida
 - Esclher o tipo de irrigação
 - cultura a ser cultivada: wasabi.
+
